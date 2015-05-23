@@ -12,6 +12,7 @@
 		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"Theme - Flatland"
 	]
