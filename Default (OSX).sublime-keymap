@@ -4,7 +4,7 @@
 
 	// Revel file in side bar
 	{ "keys": ["ctrl+alt+super+s"], "command": "reveal_in_side_bar" },
-	
+
 	// Fix annoying Ctrl+Tab behaviour
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
