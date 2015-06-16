@@ -1,2 +1,2 @@
-[*.sublime-settings]
+[*.sublime-{settings,keymap}]
 indent_style = tab
