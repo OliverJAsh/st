@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
