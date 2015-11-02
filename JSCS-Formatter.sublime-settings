@@ -1,3 +1,4 @@
+// https://github.com/TheSavior/SublimeJSCSFormatter/issues/18#issuecomment-113338167
 {
 	"node_path": { "osx": "/Users/OliverJAsh/.nvm/versions/node/v0.12.4/bin/node" },
 	"jscs_path": { "osx": "/Users/OliverJAsh/.nvm/versions/node/v0.12.4/bin/jscs" }
