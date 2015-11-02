@@ -1,0 +1,5 @@
+{
+	"rename_file_default_root": "current",
+	"copy_file_default_root": "current",
+	"rename_default": "<filename>"
+}
