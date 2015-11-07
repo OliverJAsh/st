@@ -12,5 +12,5 @@
 	{ "keys": ["alt+super+c"], "command": "copy_path" },
 
 	// Move file
-	{ "keys": ["super+alt+r"], "command": "advanced_new_file_move"}
+	{ "keys": ["ctrl+alt+super+r"], "command": "advanced_new_file_move"}
 ]
