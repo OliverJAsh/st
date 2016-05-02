@@ -19,14 +19,12 @@
 		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"tern_for_sublime",
 		"Theme - Flatland",
 		"TrailingSpaces",
-		"TypeScript",
 		"Varnish VCL"
 	]
 }
